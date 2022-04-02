@@ -1,5 +1,7 @@
 html {
   font-family: 'Roboto Mono', sans-serif;
+  padding: 0px;
+  margin: 0;
 }
 a:visited { 
   text-decoration: none; 
@@ -11,7 +13,7 @@ a:visited {
  }
 
 .everything {
-
+  padding: 0px;
   max-width: 1582px;
   height:100%;
   text-align: center;
